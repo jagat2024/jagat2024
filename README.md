@@ -7,7 +7,7 @@ Aspiring Software Engineer • AI/ML Enthusiast • C/C++ Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving+Every+Day+🚀;AI+%7C+ML+%7C+DSA+%7C+Software+Engineering;Turning+Ideas+Into+Real+Projects;Future+Software+Engineer+in+Progress+🔥" />
+  <img src=https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving+Every+Day+%F0%9F%9A%80;AI+%7C+ML+%7C+DSA+%7C+Software+Engineering;Turning+Ideas+Into+Real+Projects;Future+Software+Engineer+in+Progress+%F0%9F%94%A5%22 />
 </p>
 
 <p align="center">
