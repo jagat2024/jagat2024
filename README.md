@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about **C, C++, DSA, AI/ML & DevOps**
+- 💻 Passionate about **C, C++, DSA, ML & data analysis enthusiast**
 - 🚀 Focused on becoming **disciplined, confident, and top in all categories**
 - 🧠 Love solving problems & building creative projects
 - 📚 Preparing for coding interviews & mastering fundamentals
